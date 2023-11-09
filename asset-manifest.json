@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vocalize-TextToSpeech/static/css/main.c73c1046.css",
+    "main.js": "/Vocalize-TextToSpeech/static/js/main.837b978b.js",
+    "static/js/787.b6d5796c.chunk.js": "/Vocalize-TextToSpeech/static/js/787.b6d5796c.chunk.js",
+    "index.html": "/Vocalize-TextToSpeech/index.html",
+    "main.c73c1046.css.map": "/Vocalize-TextToSpeech/static/css/main.c73c1046.css.map",
+    "main.837b978b.js.map": "/Vocalize-TextToSpeech/static/js/main.837b978b.js.map",
+    "787.b6d5796c.chunk.js.map": "/Vocalize-TextToSpeech/static/js/787.b6d5796c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c73c1046.css",
+    "static/js/main.837b978b.js"
+  ]
+}
